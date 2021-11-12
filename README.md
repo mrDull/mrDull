@@ -28,6 +28,6 @@ Twitter :@wilfredoayendee
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@example](https://github.com/) | 0 |
+| [@sweqtyy](https://github.com/sweqtyy) | 1 |
 <!-- 2048Ranking -->
 
