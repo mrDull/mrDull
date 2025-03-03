@@ -1,12 +1,13 @@
-# 🖤 SWEQTYYS PROFILE 🖤
-  Hello! I am sweqtyy. 
-   
-I like to program in my free time, and I am determined to code much more stuff in the future!
+
+hi, im dull. a 17 year old programmer.
+
+i like to make things using Lua, rLua (roblox lol), js, and python. 
 
 # Contact Me
-Discord: dull#0003
+Discord: .dull
 
-Twitter :@wilfredoayendee
+
+
   
 
 # To play to 2048
