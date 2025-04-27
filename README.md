@@ -4,7 +4,7 @@ hi, im dull. a 17 year old programmer.
 i like to make things using Lua, rLua (roblox lol), js, and python. 
 
 # Contact Me
-Discord: .dull
+Discord: dreamsrotting
 
 
 
