@@ -1,5 +1,5 @@
 
-hi, im mrDull. a 17 year old programmer.
+hi, im mrDull. a funny ahh programmer.
 
 i like to make things using Lua, rLua (roblox lol), js, and python. 
 
